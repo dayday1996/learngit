@@ -7,3 +7,13 @@ Git has a mutable index called stage.
 
 Git has a mutable index called stage.
 Git tracks changes.
+µãµãµÎµÎ
+
+
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+ creating a new branch is quick
